@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/msharran/labs/go/gorep/internal/search"
+	"github.com/msharran/gorep/internal/search"
 )
 
 var (

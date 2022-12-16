@@ -1,3 +1,3 @@
-module github.com/msharran/labs/go/gorep
+module github.com/msharran/gorep
 
 go 1.19
